@@ -1,0 +1,11 @@
+structure = 3
+scheduler = 1
+memory = 1
+gc threshold = 0.25
+ssd budget ratio = 1
+locality create = 0
+dependency create = 0
+N to N = 125
+R to R = 65
+MAP time = 5000
+REDUCE time = 1000
